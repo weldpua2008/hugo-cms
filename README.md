@@ -1,4 +1,5 @@
 A Fast and Flexible CMS built with love by [weldpua2008](https://github.com/weldpua2008) and [friends](https://github.com/weldpua2008/hugo-cms/graphs/contributors) in [Go][].
+It does edit a TOML, YAML and JSON metadata that uses in different static site generators (main target is a [Hugo]: https://gohugo.io/)
 
 ## Overview
 
