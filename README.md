@@ -55,3 +55,4 @@ To update HugoCMS’s dependencies, use `go get` with the `-u` option.
 
     go get -u -v github.com/weldpua2008/hugo-cms
 
+[Go]: https://golang.org/
